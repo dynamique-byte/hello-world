@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+hey everyone...
+
+Github is a code hosting program for version control and collaboration.
